@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "63508514818",
+    "project_id": "meal-manager-2bd37",
+    "storage_bucket": "meal-manager-2bd37.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:63508514818:android:3961c102d323dce1727f1b",
+        "android_client_info": {
+          "package_name": "com.messmealtracker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "63508514818-ov2o81unhqec7u1g55403pcaftpodlrt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAuDUgOhBgPDC-Kd7C2W1dTGWfWWFVmg5c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "63508514818-ov2o81unhqec7u1g55403pcaftpodlrt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
